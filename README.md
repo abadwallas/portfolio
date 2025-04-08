@@ -34,7 +34,7 @@ Este portfólio é uma aplicação web desenvolvida com foco em praticar as tecn
 
 ## Acesse o portfólio online
 
-[Visualizar o portfólio](https://abadwallas.github.io/projeto-extensao/)
+[Visualizar o portfólio](https://abadwallas.github.io/portfolio/)
 
 ---
 
